@@ -1,0 +1,9 @@
+ingredients:
+- A lemon
+- 300 ml of water
+- Some ice
+
+Directions:
+1. Cut the lemon in half, and squeeze it into juice.
+2. Add 300 ml of water.
+3. Add some ice.
